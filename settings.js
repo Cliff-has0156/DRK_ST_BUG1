@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50948181169"
-global.ownername = "🌹⃟⃢👑 ༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
+global.ownernomer = "+17864445476"
+global.ownername = "ANONYMOUS"
 global.ytname = "DRK_ST_Tech"
 global.socialm = "GitHub: DRK-S-TEN"
-global.location = "America/Port-au-Prince"
+global.location = "America"
 
-global.ownernumber = '50948181169'  //creator number
-global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
+global.ownernumber = "+17864445476" //creator number
+global.ownername = 'ANONYMOUS' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.author = 'ANONYMOUS'
 
 //console view/theme
 global.themeemoji = '🗾'
 global.wm = "𝙎-𝙏𝞢𝞜"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
+global.link = 'https://chat.whatsapp.com/GFMvc7t1D2i3RyQ5Z8QhmK'
 
 //custom prefix
 global.prefa = ['']
@@ -51,14 +51,14 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '𝗗𝗼𝗻𝗲 !',
-    prem: 'This feature is for premium users only. Sorry peasants!',
-    admin: "This feature is exclusively for admins. If you're not an admin, tough luck – go cry about it somewhere!",
+    done: 'M fini Chef ANONYMOUS!',
+    prem: '+17864445476',
+    admin: "Comande sa k use seulementle bot lan ADM get manmanw",
     botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲  𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
     owner: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗼𝘄𝗻𝗲𝗿 𝗼𝗻𝗹𝘆',
     group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
     private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
-    wait: '𝖕𝖑𝖊𝖆𝖘𝖊 𝖜𝖆𝖎𝖙... ',    
+    wait: 'fon ti tann',    
     error: '🚫 𝗘𝗿𝗿𝗼𝗿 !',
 }
 
